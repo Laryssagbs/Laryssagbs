@@ -1,16 +1,34 @@
-## Hi there 👋
+# Oie, eu sou a Laryssa Gabriely!
 
-<!--
-**Laryssagbs/Laryssagbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação – UTFPR (2º período)  
+💻 Técnica em TI  
+🌍 Buscando vaga *remota* como Suporte Técnico
+🚀 Objetivo: entrar na área e evoluir futuramente para Desenvolvimento
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos atuais:
+- Php
+- C
+- SQL
+- HTML & CSS
+
+---
+
+## 💡 Sobre mim
+Durante a pandemia em 2020 comecei a me interessar pela area de tecnologia atravez de mini-cursos de programação ofertados pelo cologio, a partir disso tomei a decisão de cursar meu ensino medio junto com o Técnico em TI, me formando em 2024, atualmente estudo Ciência da Computação com foco em entrar no mercado. Tenho experiência com atendimento ao público (garçonete / operadora de caixa) — o que me ajudou com comunicação, empatia e solução de problemas.
+
+---
+
+## Minha trajetoria
+Deixo aqui meus primeiros projetos, incluindo:
+- Scripts em Php para automatizar tarefas.
+- Páginas web com HTML & CSS.
+- Estudos e exercícios simples.
+- Futuramente projetos maiores.
+
+---
+
+### 📬 Entre em contato
+laryssagbs2@gmail.com 
+
