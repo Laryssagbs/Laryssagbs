@@ -16,7 +16,7 @@
 ---
 
 ## 💡 Sobre mim
-Durante a pandemia em 2020 comecei a me interessar pela area de tecnologia atravez de mini-cursos de programação ofertados pelo cologio, a partir disso tomei a decisão de cursar meu ensino medio junto com o Técnico em TI, me formando em 2024, atualmente estudo Ciência da Computação com foco em entrar no mercado. Tenho experiência com atendimento ao público (garçonete / operadora de caixa) — o que me ajudou com comunicação, empatia e solução de problemas.
+Durante a pandemia em 2020 comecei a me interessar pela area de tecnologia atravez de mini-cursos de programação ofertados pelo colegio, a partir disso tomei a decisão de cursar meu ensino medio junto com o Técnico em TI, me formando em 2024, atualmente estudo Ciência da Computação com foco em entrar no mercado. Tenho experiência com atendimento ao público (garçonete / operadora de caixa) — o que me ajudou com comunicação, empatia e solução de problemas.
 
 ---
 
