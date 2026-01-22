@@ -22,7 +22,7 @@ Durante a pandemia em 2020 comecei a me interessar pela area de tecnologia atrav
 
 ## Habilidades
 Deixo aqui meus primeiros projetos, incluindo:
-- Scripts em Php para automatizar tarefas.
+- Um jogo em C.
 - Páginas web com HTML & CSS.
 - Estudos e exercícios simples.
 - Futuramente projetos maiores.
