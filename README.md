@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação – UTFPR (2º período)  
 💻 Técnica em TI  
-🌍 Buscando vaga *remota* como Suporte Técnico
+🌍 Buscando vaga de estagio *remoto* em T.I 
 🚀 Objetivo: entrar na área e evoluir futuramente para Desenvolvimento
 
 ---
