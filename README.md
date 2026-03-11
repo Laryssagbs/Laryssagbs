@@ -8,7 +8,7 @@
 ---
 
 ## Conhecimentos atuais:
-- Php
+- Python
 - C
 - SQL
 - HTML & CSS
